@@ -2,6 +2,8 @@
 #include <string>
 using namespace std;
 
+// this line is modifying code to check commit
+
 int findSubstring(string text, string pattern) {
     if (pattern.empty()) {
         cout << "Empty pattern" << endl;
